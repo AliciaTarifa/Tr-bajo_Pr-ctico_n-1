@@ -7,6 +7,10 @@ package Ejercicios;
  * @author alicia
  *
  */
+/*
+ * Declarar 5 variables de cada tipo de datos que utiliza Java. Dar formato al 
+ * codigo mediante comentarios
+ */
 /* Este programa ayuda a identificar a un alumno de un personal trainer
  * teniendo en cuenta diferentes datos sobre el mismo
  * trabajando los diferentes tipos de datos con diferentes variables
