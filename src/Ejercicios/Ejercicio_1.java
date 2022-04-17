@@ -6,9 +6,11 @@ package Ejercicios;
  */
 
 public class Ejercicio_1 {
+	/*
+	 * Crear un programa en Java en donde se muestre la estructura básica del mismo
+	 */
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		
 		/*
 		 * Este programa suma 5 y 4 dando el resultado en la consola
