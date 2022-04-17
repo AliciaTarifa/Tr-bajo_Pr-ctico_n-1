@@ -9,8 +9,9 @@ package Ejercicios;
  */
 public class Ejercicio_5 {
 
-	/**
-	 * @param args
+	/*
+	 * Realizar un programa en donde se muestren los diferentes operadores que existen 
+	 * en Java. Utilizar bloques de comentarios para estructurar el mismo.
 	 */
 	public static void main(String[] args) {
 	
