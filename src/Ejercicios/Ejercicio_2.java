@@ -9,13 +9,15 @@ package Ejercicios;
  * @author alicia
  * @version 1.0
  * @see Refencias
+ * Este es un comentario de documentación
  */
 
 /* El programa HoraDeComer se utiliza para aplicar System.out.println()
  * mostrando el mensaje en consola
+ * Este es un comentario de bloque
  */
 
-// El método System.out.println() marca una línea nueva
+// El método System.out.println() marca una línea nueva --> Este es un comentario de línea
 
 public class Ejercicio_2 {
 
