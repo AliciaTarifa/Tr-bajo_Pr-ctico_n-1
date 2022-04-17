@@ -9,8 +9,9 @@ package Ejercicios;
  */
 public class Ejercicio_3 {
 
-	/**
-	 * @param args
+	/*
+	 * Crear un programa en donde se declaren, al menos 3 identi¦cadores validos y 
+	 * 3 invalidos, a estos poner en comentarios el por que son incorrectas.
 	 */
 	public static void main(String[] args) { 
 		// TODO Auto-generated method stub
