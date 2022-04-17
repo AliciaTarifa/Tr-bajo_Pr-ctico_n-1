@@ -1,5 +1,6 @@
-/**
- * 
+/*
+ * Crear un programa en donde se muestren los diferentes tipos de comentarios
+ *  que hay en Java
  */
 package Ejercicios;
 
