@@ -33,7 +33,7 @@ public class Ejercicio_12 {
 			System.out.println("Tiziano y Felipe son niños");
 		}
 		if (!false) {
-			System.out.println("Es mmayor");
+			System.out.println("Es mayor");
 		}
 	
 	}
