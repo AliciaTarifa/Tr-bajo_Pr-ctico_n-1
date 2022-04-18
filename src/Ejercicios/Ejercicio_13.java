@@ -4,7 +4,7 @@
 package Ejercicios;
 
 /**
- * @author luise
+ * @author alicia
  *
  */
 public class Ejercicio_13 {
