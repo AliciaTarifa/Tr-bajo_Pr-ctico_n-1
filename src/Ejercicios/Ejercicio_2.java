@@ -1,9 +1,3 @@
-/*
- * Crear un programa en donde se muestren los diferentes tipos de comentarios
- *  que hay en Java
- */
-package Ejercicios;
-
 /**
  * Programa HoraDeComer
  * @author alicia
@@ -11,6 +5,11 @@ package Ejercicios;
  * @see Refencias
  * Este es un comentario de documentación
  */
+/*
+ * Crear un programa en donde se muestren los diferentes tipos de comentarios
+ *  que hay en Java
+ */
+package Ejercicios;
 
 /* El programa HoraDeComer se utiliza para aplicar System.out.println()
  * mostrando el mensaje en consola
